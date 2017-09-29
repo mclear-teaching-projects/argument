@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Arguments &amp; Argumentation - texts</title><link href="http://argument.colinmclear.net/" rel="alternate"></link><link href="http://argument.colinmclear.net/feeds/texts.atom.xml" rel="self"></link><id>http://argument.colinmclear.net/</id><updated>2017-09-29T00:00:00-04:00</updated><entry><title>Rachels on Relativism</title><link href="http://argument.colinmclear.net/rachels-on-relativism.html" rel="alternate"></link><published>2017-09-29T00:00:00-04:00</published><updated>2017-09-29T00:00:00-04:00</updated><author><name>Colin McLear</name></author><id>tag:argument.colinmclear.net,2017-09-29:/rachels-on-relativism.html</id><summary type="html">&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is no reason to think that there are any absolute moral truths. We can see this when we consider different cultural outlooks concerning what is morally required. For example, indigenous Inuit culture considered infanticide to be morally permissible in some situations. But modern American culture clearly thinks infanticide is …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is no reason to think that there are any absolute moral truths. We can see this when we consider different cultural outlooks concerning what is morally required. For example, indigenous Inuit culture considered infanticide to be morally permissible in some situations. But modern American culture clearly thinks infanticide is always morally wrong. So what&amp;#8217;s morally right or wrong is just a matter of opinion, which can vary from culture to culture. (James Rachels, &lt;em&gt;The Elements of Moral Theory&lt;/em&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+</content><category term="relativism"></category><category term="easy"></category></entry><entry><title>Van Inwagen on Free Will</title><link href="http://argument.colinmclear.net/van-inwagen-on-free-will.html" rel="alternate"></link><published>2017-09-29T00:00:00-04:00</published><updated>2017-09-29T00:00:00-04:00</updated><author><name>Colin McLear</name></author><id>tag:argument.colinmclear.net,2017-09-29:/van-inwagen-on-free-will.html</id><summary type="html">&lt;hr /&gt;
+&lt;h3 id="text"&gt;Text&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are, moreover, seemingly unanswerable arguments that, if they are correct, demonstrate that the existence of moral responsibility entails the existence of free will, and, therefore, if free will does not exist, moral responsibility does not exist either. It is, however, evident that moral responsibility does exist: if there …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;hr /&gt;
+&lt;h3 id="text"&gt;Text&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are, moreover, seemingly unanswerable arguments that, if they are correct, demonstrate that the existence of moral responsibility entails the existence of free will, and, therefore, if free will does not exist, moral responsibility does not exist either. It is, however, evident that moral responsibility does exist: if there were no such thing as moral responsibility nothing would be anyone&amp;#8217;s fault, and it is evident that there are states of affairs to which one can point and say, correctly, to certain people: That&amp;#8217;s your fault. (van Inwagen “How to&amp;nbsp;Think”)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="sample-extraction"&gt;Sample&amp;nbsp;Extraction&lt;/h3&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;If there were no such thing as moral responsibility, then no one would be at fault for&amp;nbsp;anything&lt;/li&gt;
+&lt;li&gt;But people do correctly fault others for performing certain kinds of&amp;nbsp;actions&lt;/li&gt;
+&lt;li&gt;&lt;span class="math inline"&gt;∴&lt;/span&gt; There is moral&amp;nbsp;responsibility&lt;/li&gt;
+&lt;li&gt;If there were no free will, then there would be no moral&amp;nbsp;responsibility&lt;/li&gt;
+&lt;li&gt;There is moral responsibility (from&amp;nbsp;3)&lt;/li&gt;
+&lt;li&gt;&lt;span class="math inline"&gt;∴&lt;/span&gt; There is free&amp;nbsp;will&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="schematization"&gt;Schematization&lt;/h3&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;If ~A, then&amp;nbsp;~B&lt;/li&gt;
+&lt;li&gt;B&lt;/li&gt;
+&lt;li&gt;&lt;span class="math inline"&gt;∴&lt;/span&gt; A (by 1, 2, modus&amp;nbsp;tollens)&lt;/li&gt;
+&lt;li&gt;If ~C then&amp;nbsp;~A&lt;/li&gt;
+&lt;li&gt;A (from&amp;nbsp;(3))&lt;/li&gt;
+&lt;li&gt;&lt;span class="math inline"&gt;∴&lt;/span&gt; C (by 4,5, modus&amp;nbsp;tollens)&lt;/li&gt;
+&lt;/ol&gt;
+</content><category term="easy"></category><category term="modus tollens"></category><category term="free will"></category></entry></feed>
